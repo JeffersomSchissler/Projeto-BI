@@ -35,6 +35,10 @@ O dashboard utiliza diversos tipos de gráficos do Power BI, cada um mapeado par
   - **Amarelo claro**: Destaques e métricas positivas
 - Estilo: Executivo, limpo, com foco em **KPI cards**, gráficos de tendência e indicadores estratégicos.
 
+## Imagens
+<img width="600" height="700" alt="image" src="https://github.com/user-attachments/assets/daf432b3-2fb2-4975-9a57-8fe447111da2" />
+
+
 ---
 
 ## 🗂 Estrutura de Dados
